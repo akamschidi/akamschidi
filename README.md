@@ -9,6 +9,8 @@
 - ⚡ Fun fact: *Currently Immersing Myself In Cloud Infra*
 -->
 
+## About Me
+To Be Updated Shortly
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akamss-chidinma-3174a5b5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@akamchidi01_660) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@akamschidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akamchidi01@gmail.com) 
