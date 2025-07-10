@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **Backend (Spring Boot & FastAPI) and Cloud (Azure & AWS)**
 - 🌱 I’m currently learning **Azure**
 - 👯 I’m looking to collaborate on **Backend and Cloud**
